@@ -29,3 +29,5 @@ Modify Booking on options available.
 Cancel Booking & Process Refund.
 
 Rate & Review Movie.
+
+Use Case Diag - https://app.creately.com/diagram/L9N9VPG8L1O/edit
